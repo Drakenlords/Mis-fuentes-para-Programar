@@ -28,7 +28,7 @@
 
 - Clonar este repositorio en el direcctorio que quieras con:
 
-```git
+```sh
 git clone https://github.com/Drakenlords/Mis-fuentes-para-Programar.git
 ```
 - acceder a las carpetas que contengan las fuentes que deseas.
