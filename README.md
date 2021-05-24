@@ -38,6 +38,6 @@ git clone https://github.com/Drakenlords/Mis-fuentes-para-Programar.git
 
 Aqui unos Blogs de Como instalar fuentes en distintos Sistemas operativos.
 
-- <img src="https://www.flaticon.es/svg/vstatic/svg/152/152755.svg?token=exp=1620523283~hmac=bd4203935c15beeb877b09e8556ab29d" width=25 height=25/> <a href="https://blog.desdelinux.net/instalar-fuentes-tipograficas-linux/">Linux</a>
+- <img src="https://image.flaticon.com/icons/png/512/37/37737.png" width=25 height=25/> <a href="https://blog.desdelinux.net/instalar-fuentes-tipograficas-linux/">Linux</a>
 - <img src="https://www.flaticon.es/svg/vstatic/svg/2/2235.svg?token=exp=1620523175~hmac=bd815585e2f192515a59f8853ef1236b" width=25 height=25/> <a href="https://support.apple.com/es-es/HT201749#:~:text=Haz%20doble%20clic%20en%20el,se%20instalar%C3%A1%20y%20podr%C3%A1%20usarse.">macOS</a>
  - <img src="https://image.flaticon.com/icons/png/512/121/121146.png" width=25 height=25/> <a href="https://www.xataka.com/basics/como-instalar-nuevos-tipos-de-letra-en-windows">Windows</a>
